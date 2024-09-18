@@ -32,7 +32,7 @@
     "jest": "yarn run -T jest"
   },
   "dependencies": {
-    "@segment/analytics-core": "1.0.1",
+    "@segment/analytics-core": "1.0.0",
     "node-fetch": "^2.6.7",
     "tslib": "^2.4.0"
   },
